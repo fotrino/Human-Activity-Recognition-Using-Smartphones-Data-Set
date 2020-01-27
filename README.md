@@ -5,6 +5,10 @@ The purpose of this project is to demonstrate the ability to collect, work with,
 
 This is Peer-graded Assignment for the "Getting and Cleaning Data Course Project".
 
+More information on the dataset can be found on:
+[Human Activity Recognition Using Smartphones Data Set
+](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+
 ## Files Included
 - README.md
 - CodeBook.md: the codebook that discribes the data and variables.
